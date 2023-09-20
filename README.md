@@ -2,4 +2,4 @@
 
 Commands: 
 
-cut - slices a line and extracts the section
+//cut - slices a line and extracts the section
