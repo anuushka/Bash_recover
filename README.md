@@ -1,9 +1,4 @@
-# Bash_recover
-
-Commands: 
-
-cut - slices a line and extracts the section
-
+# Bash basics:
 [] : Basic Conditional expressions.if [ -f $file ]; then echo “The file exists”
 
 [[]] : Conditional expressions. Provides more advanced features than [], such as pattern matching and logical operators. if [[ $string == “linux” ]]; then echo “The string is linux”
@@ -15,3 +10,8 @@ cut - slices a line and extracts the section
 Numeric comparison: -eq -lt -gt -ne -ge -le 
 
 String comparison: ==
+
+# Commands: 
+
+cut - slices a line and extracts the section
+
