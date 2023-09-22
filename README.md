@@ -19,3 +19,6 @@ head - The head command, as the name implies, print the top N number of data of 
 
 tail - opposite of head 
 https://www.geeksforgeeks.org/tail-command-linux-examples/?ref=lbp
+
+tr - delete, translate(replace)
+https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/?ref=lbp
