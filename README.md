@@ -17,4 +17,5 @@ cut - slices a line and extracts the section. https://www.geeksforgeeks.org/cut-
 
 head - The head command, as the name implies, print the top N number of data of the given input. By default, it prints the first 10 lines of the specified files. If more than one file name is provided then data from each file is preceded by its file name. https://www.geeksforgeeks.org/head-command-linux-examples/
 
-
+tail - opposite of head 
+https://www.geeksforgeeks.org/tail-command-linux-examples/?ref=lbp
