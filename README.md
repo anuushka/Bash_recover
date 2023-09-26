@@ -22,3 +22,6 @@ https://www.geeksforgeeks.org/tail-command-linux-examples/?ref=lbp
 
 tr - delete, translate(replace)
 https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/?ref=lbp
+
+sort - to sort 
+https://www.geeksforgeeks.org/sort-command-linuxunix-examples/
