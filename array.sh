@@ -32,6 +32,7 @@ a=$(paste -s)
 echo $a $a $a
 
 #Given a list of countries, each on a new line, your task is to read them into an array and then display the element indexed at 3. Note that indexing starts from 0.
+Input: 
 paste -s -d ' ' | cut -d ' ' -f 4
 
 #A single integer - the number of elements in the array.
@@ -54,5 +55,13 @@ echo ${arr[@]/[A-Z]/\.}
 #There are N integers in an array A. All but one integer occur in pairs. Your task is to find the number that occurs only once.
 #sort works on lines not space separated words
 #uniq words on lines not space separated words
+
+Input: 
+5
+0 0 1 2 1
+Input:
+3
+1 1 2
+
 paste -s -d " " | cut -d " " -f 2- | tr ' ' '\n' | sort -n | uniq -u | paste -s -d " "
 
