@@ -25,3 +25,5 @@ https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/?ref=lbp
 
 sort - to sort 
 https://www.geeksforgeeks.org/sort-command-linuxunix-examples/
+
+uniq -  detect duplicate lines and also deletes the duplicate lines https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/
