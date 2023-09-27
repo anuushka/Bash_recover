@@ -11,6 +11,19 @@ Numeric comparison: -eq -lt -gt -ne -ge -le
 
 String comparison: ==
 
+n=7
+for (( i=1 ; i<=$n ; i++ )); 
+do
+    echo $i
+done
+
+i=1
+while [ $i -le 4 ];
+do
+    echo $i
+    ((i++))
+done
+
 # Commands
 
 cut - slices a line and extracts the section. https://www.geeksforgeeks.org/cut-command-linux-examples/
