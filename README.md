@@ -27,3 +27,5 @@ sort - to sort
 https://www.geeksforgeeks.org/sort-command-linuxunix-examples/
 
 uniq -  detect duplicate lines and also deletes the duplicate lines https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/
+
+paste - join files horizontally (parallel merging) by outputting lines consisting of lines from each file specified, separated by tab as delimiter, to the standard output. https://www.geeksforgeeks.org/paste-command-in-linux-with-examples/
